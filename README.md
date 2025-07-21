@@ -24,6 +24,4 @@ Welcome to my GitHub profile! I'm a passionate coder currently on a journey to m
 
 - **Email:** swastiktiwari9336414294@gmail.com
 - **LinkedIn:** [Swastik Tiwari](https://www.linkedin.com/in/swastik-tiwari-940780305/)
-Swastik221/Swastik221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
