@@ -1,27 +1,49 @@
-# Hello, I'm Swastik Tiwari! 👋
+# Swastik Tiwari
 
-Welcome to my GitHub profile! I'm a passionate coder currently on a journey to master Full Stack Development and Python. I love exploring new technologies and building projects that can make a difference.
+Software Developer focused on building products and learning systems.
 
-## 🚀 About Me
+## Currently Learning
 
-- 🌱 I’m currently learning Full Stack Development and Python.
-- 💼 Looking for opportunities to collaborate on interesting and impactful projects.
-- 🎓 Always eager to learn and grow as a developer.
+- TypeScript
+- React & MERN Stack
+- Backend Engineering
+- DevOps
+- System Design
+- Solana Runtime
+- Rust
+- Anchor Framework
+- Web3 Infrastructure
 
-## 🛠️ Skills
+## Building
 
-- **Front-End:** HTML, CSS, JavaScript, React
-- **Back-End:** Node.js, Express, Django
-- **Database:** MongoDB, MySQL
-- **Programming Languages:** Python, JavaScript
-- **Tools:** Git, GitHub, VS Code
+- AI Applications
+- Full-Stack Web Apps
+- Developer Tools
+- Open Source Projects
 
-## 📈 GitHub Stats
+## Tech Stack
 
-![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=swastiktiwari&show_icons=true&theme=radical)
+Frontend:
+React • TypeScript • TailwindCSS
 
-## 📫 How to reach me
+Backend:
+Node.js • Express • PostgreSQL • MongoDB
 
-- **Email:** swastiktiwari9336414294@gmail.com
-- **LinkedIn:** [Swastik Tiwari](https://www.linkedin.com/in/swastik-tiwari-940780305/)
+Mobile:
+Flutter
+
+AI:
+Python • Machine Learning
+
+Tools:
+Git • Docker • Linux
+
+## Current Goal
+
+ship projects, contribue to open source, and master systems from frontend to infrastructure.
+
+## Connect
+
+Email: swastiktiwari9336414294@gmail.com
+LinkedIn:[Swastik Tiwari](https://www.linkedin.com/in/swastik-tiwari-940780305/)
 
