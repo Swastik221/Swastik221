@@ -44,8 +44,4 @@ Database      → PostgreSQL, MongoDB
 DevOps        → Docker, Linux, CI/CD
 Blockchain    → Solana, Rust, Anchor
 AI/ML         → Python, Machine Learning
-## Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,postgres,docker,git,linux,flutter,python,rust,aws,vscode" />
-</p>
