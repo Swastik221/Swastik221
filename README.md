@@ -1,49 +1,51 @@
-# Swastik Tiwari
+<h1 align="center">Swastik Tiwari</h1>
 
-Software Developer focused on building products and learning systems.
+<p align="center">
+Full-Stack Developer • Systems Learner • AI/ML • Web3
+</p>
 
-## Currently Learning
+<p align="center">
+Building products, learning distributed systems, and exploring the intersection of AI, Web, and Blockchain.
+</p>
 
-- TypeScript
-- React & MERN Stack
-- Backend Engineering
-- DevOps
+---
+
+## About Me
+
+I enjoy building software from scratch and understanding how things work under the hood.
+
+Currently focused on:
+
+- TypeScript & MERN Stack
+- DevOps & Cloud Fundamentals
 - System Design
-- Solana Runtime
-- Rust
-- Anchor Framework
-- Web3 Infrastructure
+- Solana Development
+- Rust & Anchor
+- AI/ML Engineering
 
-## Building
 
-- AI Applications
-- Full-Stack Web Apps
-- Developer Tools
-- Open Source Projects
+### Highlights
 
+- Contributor — Winter of Blockchain
+- Contributor — GirlScript Summer of Code
+- Contributor — Social Winter of Code
+- Participated in Colosseum Hackathon 2026
+- Been a part of 6G Symposium at IIT Patna
+- Building full-stack and AI-powered applications
+
+---
+
+## Current Focus
+
+```txt
+Frontend      → React, TypeScript, Tailwind
+Backend       → Node.js, Express, APIs
+Database      → PostgreSQL, MongoDB
+DevOps        → Docker, Linux, CI/CD
+Blockchain    → Solana, Rust, Anchor
+AI/ML         → Python, Machine Learning
 ## Tech Stack
 
-Frontend:
-React • TypeScript • TailwindCSS
-
-Backend:
-Node.js • Express • PostgreSQL • MongoDB
-
-Mobile:
-Flutter
-
-AI:
-Python • Machine Learning
-
-Tools:
-Git • Docker • Linux
-
-## Current Goal
-
-ship projects, contribue to open source, and master systems from frontend to infrastructure.
-
-## Connect
-
-Email: swastiktiwari9336414294@gmail.com
-LinkedIn:[Swastik Tiwari](https://www.linkedin.com/in/swastik-tiwari-940780305/)
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,postgres,docker,git,linux,flutter,python,rust,aws,vscode" />
+</p>
