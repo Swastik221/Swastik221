@@ -23,16 +23,6 @@ Currently focused on:
 - Rust & Anchor
 - AI/ML Engineering
 
-
-### Highlights
-
-- Contributor — Winter of Blockchain
-- Contributor — GirlScript Summer of Code
-- Contributor — Social Winter of Code
-- Participated in Colosseum Hackathon 2026
-- Been a part of 6G Symposium at IIT Patna
-- Building full-stack and AI-powered applications
-
 ---
 
 ## Current Focus
